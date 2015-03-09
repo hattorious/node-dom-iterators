@@ -1,5 +1,5 @@
 {
-  "name": "node-dom-iterators",
+  "name": "dom-iterators",
   "version": "0.0.0-alpha",
   "description": "Walk the DOM with ES6.",
   "main": "index.js",
